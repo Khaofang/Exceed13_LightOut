@@ -10,13 +10,13 @@ body {
   color: #ffffff;
 }
 
-#panel-setting {
-  margin-top: 120px;
-  margin-left: 20px;
-}
 #panel-robot {
-  margin-top: -40px;
+  margin-top: 150px;
   margin-left: -10px;
+}
+#panel-setting {
+  margin-top: -520px;
+  margin-left: 20px;
 }
 #panel-light {
   margin-top: -490px;
@@ -51,4 +51,10 @@ body {
 }
 #panel-room {
   margin-top: 20px;
+}
+#panel-power-detail {
+  margin-top: -550px;
+  color: #155115;
+  font-size: 32px;
+  font-style: italic;
 }
